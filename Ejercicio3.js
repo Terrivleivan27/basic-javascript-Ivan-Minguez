@@ -1,4 +1,4 @@
-const scanner = require("prompt-sync")({sigint: true })
+const input = require("prompt-sync")({sigint: true })
 
 let cancelacion = false
 let numInput
